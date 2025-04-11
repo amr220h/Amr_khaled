@@ -19,8 +19,7 @@
  📚 **Currently Learning**  
  🔹 **Machine Learning & Deep Learning** (Scikit-learn, XGBoost)  
  🔹 **Data Engineering** (SQL, Big Data, Cloud Computing)  
- 🔹 **MLOps** & Model Deployment for Production-ready AI  
- 🔹 **MLOps** & Model Deployment  
+  
  
  ### 💡 Ask Me About  
  💡 **Ask Me About**  
