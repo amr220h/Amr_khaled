@@ -4,19 +4,24 @@
 ### 🚀 What I'm Currently Working On  
 🔹 Building **Data Science projects** focused on Machine Learning, Data Analysis, and AI-driven decision-making.  
 🔹 Exploring **Big Data & Cloud Computing** to scale AI models efficiently.  
+🔹 Applying **Natural Language Processing (NLP)** to extract insights from unstructured data.  
 
 ### 🤝 Looking to Collaborate On  
 ✅ Open-source **AI & Data Science** projects  
-✅ **Predictive modeling** & **Big Data challenges**  
+✅ **Predictive modeling**, **NLP**, & **Big Data challenges**  
 
 ### 📚 Currently Learning  
 🔹 **Machine Learning & Deep Learning** (Scikit-learn, XGBoost)  
+🔹 **Natural Language Processing (NLP)**  
 🔹 **Data Engineering** (SQL, Big Data, Cloud Computing)  
 
 ### 💡 Ask Me About  
 🎯 **Data Science & Machine Learning**  
 📊 **Data Analysis & Visualization**  
+🧠 **NLP & Text Mining**  
 🛢️ **SQL & Database Management**  
+
+---
 
 ## 💻 Tech Stack  
 
@@ -32,6 +37,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231572B6.svg?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+
+### 🧠 NLP Tools & Libraries  
+![NLTK](https://img.shields.io/badge/NLTK-009688?style=for-the-badge&logo=nltk&logoColor=white)  
+![spaCy](https://img.shields.io/badge/spaCy-4A154B?style=for-the-badge&logo=python&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBB00?style=for-the-badge&logo=huggingface&logoColor=black)  
 
 ### 🗄️ Databases & Cloud  
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
@@ -70,4 +80,4 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amr-khaled-salama-176510325)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amrkhaledsalama98@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amrkhaledsalama98@gmail.com)  
