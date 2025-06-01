@@ -30,7 +30,6 @@
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)  
 
 ### 🔬 Data Science & AI  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ee6c4d.svg?style=for-the-badge&logo=matplotlib&logoColor=white)  
